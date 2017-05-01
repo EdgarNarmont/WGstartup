@@ -5,10 +5,9 @@
   <meta charset = "UTF-8" />
 </head>
 <body>
-  <h1>Level One Headline</h1>
+  <h1>Main page</h1>
   <p>
-    This is a paragraph.
-    Note that the text is automatically wrapped.
+    My first paragraph.
   </p>
 </body>
 </html>
